@@ -222,7 +222,7 @@ int appLogic(char arrayTable[ROWS][COLUMNS], int &points, int remainingGuesses)
         else if (arrayTable[row][column] == 'B')
         {
             cout << endl;
-            cout << "BOMB... GAME OVER!!" << endl << endl;
+            cout << "BOMB... GAME OVER!!!" << endl << endl;
             break;
             // If the user finds the BOMB, then the loop will break and the game will end.
         }
