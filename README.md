@@ -1,4 +1,9 @@
 # INFO450GUESSS
+Topics Covered:  2-D Arrays, Functions, Function Parameters/Arguments, Conditional Statements
+
+
+
+
 
 Functional Requirements:
 Write a Program that builds an 8x8 board game with 5 pieces of hidden gold and 1 hidden BOMB.
