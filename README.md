@@ -3,10 +3,10 @@
 Functional Requirements:
 Write a Program that builds an 8x8 board game with 5 pieces of hidden gold and 1 hidden BOMB.
 
-The user gets 5 chances (guesses) to find the gold,  earning a point for each found Gold
-After each guess, the user is informed if they found Gold or not and how many guesses they have left.
-If the user finds the BOMB before finding all the gold, the game is over. LOSER! No more guesses.
-The game starts with presenting a game board with the contents hidden
+The user gets 5 chances (guesses) to find the gold,  earning a point for each found Gold	
+After each guess, the user is informed if they found Gold or not and how many guesses they have left.	
+If the user finds the BOMB before finding all the gold, the game is over. LOSER! No more guesses.	
+The game starts with presenting a game board with the contents hidden	
 The game allows the user to guess 5 times, by entering an x-coordinate and an y-coordinate for each guess
 At the end of the game, 
 The player is presented with the number of Points earned  (gold that was found)
